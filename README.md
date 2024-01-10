@@ -1,6 +1,8 @@
 # MUHT4R
 Muhtar is a cool assistant for you:)
+
 Available Commands:
+   
     - 'phone' : Opening scrcpy (your phone must be connected to usb)
     - 'time' : Show the current time.
     - 'date' : Show the current date.
