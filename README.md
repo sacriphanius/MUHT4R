@@ -10,7 +10,7 @@ Available Commands:
     - 'alarm' : Set an alarm.
     - 'file' : Perform file/directory operations.
     - 'search' : Search information about a specific topic.
-    - 'music' : Play music.
+    - 'music' : Opening Spotify.
     - 'take note' : Take a note.
     - 'exit' : Shutdown Muhtar.
 
